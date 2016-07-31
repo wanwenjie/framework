@@ -1,0 +1,2435 @@
+﻿use kaoshi
+insert into adminuser(id,user,pwd) values("1","wang","11111")
+use kaoshi
+insert into adminuser(id,user,pwd) values("1","wang","11111")
+use kaoshi
+insert into adminuser(id,user,pwd) values("1","wang","11111")
+use kaoshi
+insert into adminuser(id,user,pwd) values("1","wang","11111")
+use kaoshi
+use kaoshi
+use kaoshi
+use kaoshi
+use kaoshi
+use kaoshi
+use kaoshi
+insert into adminuser(user,pwd,sex,email) values("","","","")
+use kaoshi
+insert into adminuser() values("
+use kaoshi
+insert into adminuser() values("
+use kaoshi
+insert into adminuser() values("
+use kaoshi
+insert into adminuser(id,user,pwd,email,sex) values(null,"wwwww","222222","15263095729@qq.com","男")
+use kaoshi
+insert into adminuser(id,user,pwd,email,sex) values(null,"wwwww","222222","15263095729@qq.com","男")
+use kaoshi
+insert into adminuser(id,user,pwd,email,sex) values("3","wwwww","222222","15263095729@qq.com","男")
+use kaoshi
+insert into adminuser(id,user,pwd,email,sex) values("6","wwwww","222222","15263095729@qq.com","男")
+use kaoshi
+insert into adminuser(id,user,pwd,email,sex) values("6","wwwww","222222","15263095729@qq.com","男")
+use kaoshi
+insert into adminuser(id,user,pwd,email,sex) values("6","wwwww","222222","15263095729@qq.com","男")
+use kaoshi
+insert into adminuser(id,user,pwd,email,sex) values("6","wwwww","222222","15263095729@qq.com","男")
+use kaoshi
+insert into adminuser(id,user,pwd,email,sex) values("1","wwwww","222222","15263095729@qq.com","男")
+use kaoshi
+insert into adminuser(id,user,pwd,email,sex) values("5","wwwww","222222","15263095729@qq.com","男")
+use kaoshi
+insert into adminuser(id,user,pwd,sex,email) values('null',"wwwww","222222","m","15263095729@qq.com")
+use kaoshi
+
+use kaoshi
+select id from adminuser
+use kaoshi
+select id from adminuser
+use kaoshi
+select id from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select * from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id from adminuser
+insert into adminuser(id,user,pwd,sex,email) values("7","ssss","4444444","on","42222222@qq.com")
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id from adminuser
+insert into adminuser(id,user,pwd,sex,email) values("7","eeee","1111111","m","1654206898@qq.com")
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id from adminuser
+insert into adminuser(id,user,pwd,sex,email) values("8","柔柔弱弱","3333333","m","1654206898@qq.com")
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select id from adminuser
+use kaoshi
+select id from adminuser
+use kaoshi
+select id from adminuser
+use kaoshi
+select id from adminuser
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select * from memuser
+use kaoshi
+select * from memuser
+use kaoshi
+select * from memuser
+use kaoshi
+select * from memuser
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,sex,email,phone) values("2","","2222222","男","1654206898@qq.com","")
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,sex,email,phone) values("2","","3333333","男","23445533@qq.com","1233332222")
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,sex,email,phone) values("2","www","22222222","男","1654206898@qq.com","1233332222")
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,sex,email,phone) values("2","www","wwwwwww","男","1654206898@qq.com","1233332222")
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,sex,email,phone) values("2","www","1111111","男","1654206898@qq.com","1233332222")
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,sex,email,phone) values("2","www","1111111","男","1654206898@qq.com","1233332222")
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,sex,email,phone) values("2","www","1111111","男","1654206898@qq.com","1233332222")
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,sex,email,phone) values("2","www","1111111","男","1654206898@qq.com","1233332222")
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,sex,email,phone,flag) values("2","www","1111111","男","1654206898@qq.com","1233332222","0")
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,sex,email,phone,flag) values("3","eeee","333333","女","1654206898@qq.com","1233332222","0")
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,sex,email,phone,flag) values("3","wwww","1111111111","男","1654206898@qq.com","1233332222","0")
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+delete from memuserwhere id=2
+select id from memuser
+use kaoshi
+select * from memuser
+delete from memuserwhere id=
+select id from memuser
+use kaoshi
+select * from memuser
+delete from memuserwhere id=2
+select id from memuser
+use kaoshi
+select * from memuser
+delete from memuserwhere id=2
+select id from memuser
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+delete from memuserwhere id=2
+use kaoshi
+select * from memuser
+use kaoshi
+select id from memuser
+select * from memuser
+select id from memuser
+use kaoshi
+delete from memuser where id=2
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where id=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where id=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where id=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where id=4
+use kaoshi
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where id=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where id=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where id=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where id=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+select id from x2_questions
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+select questionid from x2_questions
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+select questionid from x2_questions
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+select questionid from x2_questions
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+select questionid from x2_questions
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+select questionid from x2_questions
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+select questionid from x2_questions
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+select questionid from x2_questions
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 1,5
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 30,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 60,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 60,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 60,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 30,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 1170,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 1170,30
+select questionid from x2_questions
+use kaoshi
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 1170,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 1170,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 1170,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 1170,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 1170,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 1170,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 1170,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 330,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 30,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 300,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 60,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 30,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 30,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 60,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 90,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 120,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 150,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 120,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 60,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 30,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 4890,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 30,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 60,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 90,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 120,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 150,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 180,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 210,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 240,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 210,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 240,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 270,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 330,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 420,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 570,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 570,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 1170,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 720,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 870,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 750,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 570,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 750,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 420,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 510,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 450,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 480,30
+select questionid from x2_questions
+use kaoshi
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=34
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=128
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=44
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=34
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=65
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=16
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=60
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=21
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=9
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=196
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=27
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=175
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=170
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=60
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=102
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=116
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=94
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=26
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=31
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=205
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=104
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=138
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=29
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=161
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=184
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=190
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=54
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=153
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=113
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=189
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=98
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=95
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=213
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=34
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=89
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=80
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=161
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=127
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=29
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=145
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=55
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=74
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=95
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=191
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=14
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=128
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=159
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=141
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=210
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=138
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=53
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=142
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=45
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=215
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=101
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=195
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=51
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=17
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=200
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=44
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=69
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=41
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=182
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=222
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=126
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=96
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=143
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=54
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=194
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=27
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=108
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=62
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=2
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=177
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=119
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=106
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=222
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=171
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=218
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=20
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=87
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=102
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=109
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=95
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=142
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=99
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=94
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=127
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=81
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=149
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=185
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=70
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=97
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=5
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=191
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=180
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=5
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=114
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=69
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=19
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=158
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=217
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=13
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=183
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=123
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=7
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=5
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=205
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=36
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=159
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=206
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=11
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=57
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=136
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=100
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=152
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=167
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=219
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=208
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=166
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=117
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=11
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=194
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=161
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=222
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=198
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=36
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=9
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=140
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=83
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=203
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=58
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=226
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=9
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=184
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=186
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=40
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=42
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=178
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=78
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=107
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=225
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=63
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=18
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=14
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=39
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=92
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=45
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=215
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=88
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=170
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=11
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=128
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=43
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=85
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=93
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=77
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=37
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=211
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=173
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=133
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=19
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=185
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=120
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=212
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=90
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=79
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=115
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=207
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=77
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=226
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=40
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=110
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=186
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=217
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=11
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=157
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=162
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=173
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=112
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=174
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=83
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=182
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=146
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=90
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=33
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=165
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=140
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=152
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=159
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=172
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=57
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=194
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=11
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=37
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=210
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=145
+use kaoshi
+use kaoshi
+use kaoshi
+use kaoshi
+use kaoshi
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=95
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=40
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=5
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=228
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=86
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=208
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=209
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=41
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=140
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=164
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=129
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=181
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=188
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=162
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=123
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=15
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=75
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=125
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=29
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=98
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=125
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=110
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=95
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=173
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=126
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=52
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=204
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=70
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=145
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=28
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=199
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=104
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=37
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=47
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=228
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=25
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=38
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=151
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=166
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=214
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=162
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=69
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=179
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=13
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=47
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=81
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=152
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=103
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=100
+use kaoshi
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=167
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=96
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=160
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=135
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=49
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=118
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=29
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=144
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=60
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=148
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=143
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=221
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=87
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=121
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=168
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=147
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=87
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=211
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=174
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=65
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=8
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=58
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=153
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=100
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=18
+use kaoshi
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=24
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=157
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=74
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=55
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=162
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=97
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=109
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=228
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=121
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=21
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=14
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=47
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=217
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=112
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=129
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=99
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=30
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=165
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=114
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=63
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=136
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=78
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=141
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=217
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=135
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=43
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=131
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=206
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=71
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=99
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=125
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=222
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=87
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=152
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=57
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=147
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=154
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=178
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=104
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=111
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=59
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=50
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=37
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=171
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=25
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=157
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=155
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=208
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=130
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=216
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("43","1","党的十一届三中全会以后，我国农村集体经济组织普遍采取了（）。","C","&lt;p&gt;A、政社合一的经营体制&lt;/p&gt;&lt;p&gt;B、三级所有的经营体制&lt;/p&gt;&lt;p&gt;C、家庭承包经营为基础的统分结合的双层经营体制&lt;/p&gt;&lt;p&gt;D、土地公有基础上家庭承包经营的分散式经营体制&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("131","1","中国共产党解决民族问题的基本政策是（）。","B","&lt;p&gt;A、民族自治&lt;/p&gt;&lt;p&gt;B、民族区域自治&lt;/p&gt;&lt;p&gt;C、民族平等&lt;/p&gt;&lt;p&gt;D、民族融合&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("206","1","基层党组织应监督党员干部和其他任何工作人员严格遵守国法政纪，严格遵守（）和人事制度，不得侵占国家、集体和群众的利益。","C","&lt;p&gt;A、党章&lt;/p&gt;&lt;p&gt;B、党规&lt;/p&gt;&lt;p&gt;C、国家的财政经济法规&lt;/p&gt;&lt;p&gt;D、公务员守则&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("71","1","党的十七大《报告》指出，（）是发展中国特色社会主义的基本要求。","A","&lt;p&gt;A、科学发展、社会和谐&lt;/p&gt;&lt;p&gt;B、解放思想、实事求是&lt;/p&gt;&lt;p&gt;C、改革开放、自力更生&lt;/p&gt;&lt;p&gt;D、与时俱进、统筹兼顾&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("99","1","郭明义同志是助人为乐的道德模范，是新时期学习实践（）的优秀代表。","B","&lt;p&gt;A、民族精神&lt;/p&gt;&lt;p&gt;B、雷锋精神&lt;/p&gt;&lt;p&gt;C、社会主义荣辱观&lt;/p&gt;&lt;p&gt;D、科学发展&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("125","1","1967年2月,谭震林、陈毅、叶剑英等老同志对“文化大革命”的错误提出强烈批评,却被江青、康生等人诬为( )。","B","&lt;p&gt;A、“二月抗争”&lt;/p&gt;&lt;p&gt;B、“二月逆流”&lt;/p&gt;&lt;p&gt;C、“二月事件”&lt;/p&gt;&lt;p&gt;D、“二月事变”&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("222","1","党的各级委员会向（）负责并报告工作。","B","&lt;p&gt;A、同级党委书记办公会&lt;/p&gt;&lt;p&gt;B、同级党的代表大会&lt;/p&gt;&lt;p&gt;C、同级党委常委&lt;/p&gt;&lt;p&gt;D、党的地方领导机关&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("87","1","新中国外交史上一项具有里程碑意义的成果,是指由中国领导创立的、目的在于“以互信求安全、以互利求合作”的新型区域合作组织是（）。","D","&lt;p&gt;A、亚太经济合作组织&lt;/p&gt;&lt;p&gt;B、东南亚联盟国家组织&lt;/p&gt;&lt;p&gt;C、欧盟&lt;/p&gt;&lt;p&gt;D、上海合作组织&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("152","1","十八大党章共11章（）条。","B","&lt;p&gt;A、50&lt;/p&gt;&lt;p&gt;B、53&lt;/p&gt;&lt;p&gt;C、58&lt;/p&gt;&lt;p&gt;D、60&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("57","1","贯彻“三个代表”重要思想，关键在坚持（）。","C","&lt;p&gt;A、党的先进性&lt;/p&gt;&lt;p&gt;B、改革开放&lt;/p&gt;&lt;p&gt;C、与时俱进&lt;/p&gt;&lt;p&gt;D、四项基本原则&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("147","1","1975年,邓小平部署以（）为突破口,对各条战线进行整顿。","B","&lt;p&gt;A、军队整顿&lt;/p&gt;&lt;p&gt;B、铁路整顿&lt;/p&gt;&lt;p&gt;C、农业整顿&lt;/p&gt;&lt;p&gt;D、商业整顿&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("154","1","十八次党章于2012年11月（）日通过。","B","&lt;p&gt;A、8&lt;/p&gt;&lt;p&gt;B、14&lt;/p&gt;&lt;p&gt;C、15&lt;/p&gt;&lt;p&gt;D、16&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("178","1","党的地方各级代表大会如提前或延期举行，由它选举的委员会的任期（）。","B","&lt;p&gt;A、不变&lt;/p&gt;&lt;p&gt;B、相应地改变&lt;/p&gt;&lt;p&gt;C、无效&lt;/p&gt;&lt;p&gt;D、中断&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("104","1","2010年11月安装在国家超级计算天津中心的（）以峰值速度4700万亿次、持续速度2566万亿次每秒浮点运算的优异性能位居世界第一。","B","&lt;p&gt;A、“曙光一号”&lt;/p&gt;&lt;p&gt;B、“天河一号”&lt;/p&gt;&lt;p&gt;C、“魔方”&lt;/p&gt;&lt;p&gt;D、“银河一号”&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("111","1","1921年( ),党的一大在上海开幕,最后一天的会议转移到浙江嘉兴南湖举行。","C","&lt;p&gt;A、6月20日&lt;/p&gt;&lt;p&gt;B、7月1日&lt;/p&gt;&lt;p&gt;C、7月23日&lt;/p&gt;&lt;p&gt;D、7月24日&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("59","1","学习贯彻“三个代表”重要思想，根本目的是（）。","A","&lt;p&gt;A、推动全党更好地带领人民群众把中国特色社会主义事业推向前进&lt;/p&gt;&lt;p&gt;B、实现全面建设小康社会的宏伟目标&lt;/p&gt;&lt;p&gt;C、用科学理论武装全体人民&lt;/p&gt;&lt;p&gt;D、完善公有制为主体的多种所有制并存的制度&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("50","1","“和平统一、一国两制”的前提是（）。","A","&lt;p&gt;A、一个中国&lt;/p&gt;&lt;p&gt;B、港澳台高度自治&lt;/p&gt;&lt;p&gt;C、国家主体部分实行社会主义制度&lt;/p&gt;&lt;p&gt;D、港澳台的资本主义制度不变&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("37","1","第一次提出“建设有中国特色的社会主义”这一概念，是在党的（）。","A","&lt;p&gt;A、十二大&lt;/p&gt;&lt;p&gt;B、十三大&lt;/p&gt;&lt;p&gt;C、十五大&lt;/p&gt;&lt;p&gt;D、十七大&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("171","1","我们要从根本上改革束缚生产力发展的经济体制，坚持和完善社会主义（）体制。","C","&lt;p&gt;A、计划经济&lt;/p&gt;&lt;p&gt;B、商品经济&lt;/p&gt;&lt;p&gt;C、市场经济&lt;/p&gt;&lt;p&gt;D、公有制经济&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("25","1","以下不属于党的三大作风的内容是（）。","B","&lt;p&gt;A、理论和实践相结合的作风&lt;/p&gt;&lt;p&gt;B、艰苦朴素的作风&lt;/p&gt;&lt;p&gt;C、与人民群众紧密地联系在一起的作风&lt;/p&gt;&lt;p&gt;D、批评及自我批评的作风&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("157","1","“三个代表”重要思想是对马克思列宁主义、毛泽东思想、邓小平理论的（）和发展。","B","&lt;p&gt;A、丰富&lt;/p&gt;&lt;p&gt;B、继承&lt;/p&gt;&lt;p&gt;C、创新&lt;/p&gt;&lt;p&gt;D、巩固&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("155","1","马克思列宁主义揭示了（），它的基本原理是正确的，具有强大的生命力。","C","&lt;p&gt;A、共产党执政规律&lt;/p&gt;&lt;p&gt;B、社会主义建设规律&lt;/p&gt;&lt;p&gt;C、人类社会历史发展规律&lt;/p&gt;&lt;p&gt;D、人类社会经济发展规律&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("208","1","预备党员的预备期为（）。","A","&lt;p&gt;A、1年&lt;/p&gt;&lt;p&gt;B、2年&lt;/p&gt;&lt;p&gt;C、2.5年&lt;/p&gt;&lt;p&gt;D、3年&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("130","1","中国工人运动史上持续时间最长的一次罢工是（）。","C","&lt;p&gt;A、香港海员罢工&lt;/p&gt;&lt;p&gt;B、广州沙面工人罢工&lt;/p&gt;&lt;p&gt;C、省港大罢工&lt;/p&gt;&lt;p&gt;D、二七大罢工&lt;/p&gt;")
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("216","1","党员要求退党，应当经支部大会讨论后宣布（），并报上级党组织备案。","B","&lt;p&gt;A、开除&lt;/p&gt;&lt;p&gt;B、除名&lt;/p&gt;&lt;p&gt;C、给予党纪处分&lt;/p&gt;&lt;p&gt;D、给予通报批评&lt;/p&gt;")
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=63
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=66
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=166
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=31
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=182
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=211
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=122
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=180
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=198
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=187
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=28
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=92
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=182
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=193
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=187
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=174
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=99
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=8
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=221
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=116
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=1
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=41
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=138
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=89
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=216
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+select questionid from tmp_question
+insert into tmp_question(0) values("Array")
+use kaoshi
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=111
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=229
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=52
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=137
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=135
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=25
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=84
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=179
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=68
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=216
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=73
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=62
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=91
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=159
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=65
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=141
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=95
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=10
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=205
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=72
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=132
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=227
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=113
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=181
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=115
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+select questionid from tmp_question
+insert into tmp_question() values("
+use kaoshi
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=22
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=7
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=193
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=163
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=51
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=181
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=82
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=148
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=209
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=165
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=146
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=56
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=226
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=206
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=114
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=55
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=95
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=214
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=103
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=4
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=7
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=102
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=97
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=105
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=174
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("22","1","1956年9月15至27日党的八大在北京举行，这次大会明确了国内主要矛盾是（）。","C","&lt;p&gt;A、无产阶级和资产阶级的矛盾&lt;/p&gt;&lt;p&gt;B、中华民族和帝国主义的矛盾&lt;/p&gt;&lt;p&gt;C、落后的经济文化和人民需要之间的矛盾&lt;/p&gt;&lt;p&gt;D、人民群众内部矛盾&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("7","1","1934年10月，中央红军开始长征后，留在中央根据地领导南方游击战争的是（）。","B","&lt;p&gt;A、彭德怀项英&lt;/p&gt;&lt;p&gt;B、项英陈毅&lt;/p&gt;&lt;p&gt;C、叶挺粟裕&lt;/p&gt;&lt;p&gt;D、粟裕陈毅&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("193","1","构建社会主义和谐社会的重点是（）。","C","&lt;p&gt;A、民主法治&lt;/p&gt;&lt;p&gt;B、公平正义&lt;/p&gt;&lt;p&gt;C、保障和改善民生&lt;/p&gt;&lt;p&gt;D、人与自然和谐相处&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("163","1","我国的社会主义建设，必须从我国的国情出发，走（）道路。","B","&lt;p&gt;A、社会主义&lt;/p&gt;&lt;p&gt;B、中国特色社会主义&lt;/p&gt;&lt;p&gt;C、改革开放&lt;/p&gt;&lt;p&gt;D、强国富民&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("51","1","世界和平与发展的主要障碍是（）。","D","&lt;p&gt;A、宗教问题和领土争端&lt;/p&gt;&lt;p&gt;B、恐怖主义和民族矛盾&lt;/p&gt;&lt;p&gt;C、贫富差距和地区冲突&lt;/p&gt;&lt;p&gt;D、霸权主义和强权政治&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("181","1","党的建设必须坚持解放思想，实事求是，与时俱进，（）。","A","&lt;p&gt;A、求真务实&lt;/p&gt;&lt;p&gt;B、艰苦奋斗&lt;/p&gt;&lt;p&gt;C、执政为民&lt;/p&gt;&lt;p&gt;D、开拓创新&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("82","1","海南省的行政区划中包括4个黎族自治县和2个苗族自治县。由此看出我国在少数民族聚居地区实行（）。","B","&lt;p&gt;A、人民代表大会制度&lt;/p&gt;&lt;p&gt;B、民族区域自治制度&lt;/p&gt;&lt;p&gt;C、多党合作制度&lt;/p&gt;&lt;p&gt;D、政治协商制度&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("148","1","全国开展“向雷锋同志学习”的热潮始于（B）年。","B","&lt;p&gt;A、1953&lt;/p&gt;&lt;p&gt;B、1963&lt;/p&gt;&lt;p&gt;C、1954&lt;/p&gt;&lt;p&gt;D、1965&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("209","1","预备党员的预备期，从（）之日算起。","C","&lt;p&gt;A、递交入党申请书&lt;/p&gt;&lt;p&gt;B、递交入党志愿书&lt;/p&gt;&lt;p&gt;C、支部大会通过他为预备党员&lt;/p&gt;&lt;p&gt;D、上级党组织批准&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("165","1","在生产发展和社会财富增长的基础上不断满足人民日益增长的物质文化需要，促进（）的全面发展。","D","&lt;p&gt;A、经济&lt;/p&gt;&lt;p&gt;B、社会&lt;/p&gt;&lt;p&gt;C、国家&lt;/p&gt;&lt;p&gt;D、人&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("146","1","2005年（）,中共中央总书记胡锦涛在北京与中国国民党主席连战举行正式会谈。这是60年来国共两党最高领导人的首次正式会谈。会后共同发布“两岸和平发展共同愿景”。","B","&lt;p&gt;A、4月28日&lt;/p&gt;&lt;p&gt;B、4月29日&lt;/p&gt;&lt;p&gt;C、4月30日&lt;/p&gt;&lt;p&gt;D、4月31日&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("56","1","从根本上说，“三个代表”重要思想是在科学判断（）。","A","&lt;p&gt;A、党的历史方位的基础上提出的&lt;/p&gt;&lt;p&gt;B、社会主义建设形势的基础上提出的&lt;/p&gt;&lt;p&gt;C、当今国际形势的基础上提出的&lt;/p&gt;&lt;p&gt;D、党的自身变化的基础上提出的&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("226","1","在选举党的各级代表大会的代表和委员会委员时，应当采用（）的方式进行选举。","D","&lt;p&gt;A、举手表决&lt;/p&gt;&lt;p&gt;B、口头表决&lt;/p&gt;&lt;p&gt;C、记名投票&lt;/p&gt;&lt;p&gt;D、无记名投票&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("206","1","基层党组织应监督党员干部和其他任何工作人员严格遵守国法政纪，严格遵守（）和人事制度，不得侵占国家、集体和群众的利益。","C","&lt;p&gt;A、党章&lt;/p&gt;&lt;p&gt;B、党规&lt;/p&gt;&lt;p&gt;C、国家的财政经济法规&lt;/p&gt;&lt;p&gt;D、公务员守则&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("114","1","( )打响了武装反抗国民党反动派的第一枪,标志着中国共产党独立地领导革命战争、创建人民军队和武装夺取政权的开始。","A","&lt;p&gt;A、南昌起义&lt;/p&gt;&lt;p&gt;B、秋收起义&lt;/p&gt;&lt;p&gt;C、广州起义&lt;/p&gt;&lt;p&gt;D、黄花岗起义&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("55","1","“三个代表”的要求，是我们党的（）。","C","&lt;p&gt;A、立党之本、时代要求、执政之基&lt;/p&gt;&lt;p&gt;B、时代要求、执政之基、力量之源&lt;/p&gt;&lt;p&gt;C、立党之本、执政之基、力量之源&lt;/p&gt;&lt;p&gt;D、立党之本、时代要求、力量之源&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("95","1","十一届三中全会是建国以来党的历史上具有深远意义的伟大转折，其依据是（）。","C","&lt;p&gt;A、新时期党的基本路线初步形成&lt;/p&gt;&lt;p&gt;B、邓小平等第二代领导核心形成&lt;/p&gt;&lt;p&gt;C、转移了党和国家的工作重点&lt;/p&gt;&lt;p&gt;D、全面解决人民温饱&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("214","1","发展党员，必须坚持（）的原则。","B","&lt;p&gt;A、集体吸收&lt;/p&gt;&lt;p&gt;B、个别吸收&lt;/p&gt;&lt;p&gt;C、个别吸收和集体吸收相结合&lt;/p&gt;&lt;p&gt;D、宽严结合&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("103","1","羊城豪情点燃亚运盛会，珠江光影拥抱和谐亚洲。第十六届广州亚洲运动会中国体育代表团取得了（）金牌的优异成绩。","C","&lt;p&gt;A、51枚&lt;/p&gt;&lt;p&gt;B、89枚&lt;/p&gt;&lt;p&gt;C、199枚&lt;/p&gt;&lt;p&gt;D、78枚&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("4","1","1923年6月12日至20日，中国共产党第三次全国代表大会在广州召开，这次大会的中心议题是( )。","C","&lt;p&gt;A、武装斗争问题&lt;/p&gt;&lt;p&gt;B、农民运动问题&lt;/p&gt;&lt;p&gt;C、国共合作问题&lt;/p&gt;&lt;p&gt;D、工人运动问题&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("7","1","1934年10月，中央红军开始长征后，留在中央根据地领导南方游击战争的是（）。","B","&lt;p&gt;A、彭德怀项英&lt;/p&gt;&lt;p&gt;B、项英陈毅&lt;/p&gt;&lt;p&gt;C、叶挺粟裕&lt;/p&gt;&lt;p&gt;D、粟裕陈毅&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("102","1","中国共产党第十七届五中全会，于２０１０年１０月１５日至１８日在北京举行。全会审议通过了《中共中央关于制定国民经济和社会发展第（）五年规划的建议》。","C","&lt;p&gt;A、十个&lt;/p&gt;&lt;p&gt;B、十一个&lt;/p&gt;&lt;p&gt;C、十二个&lt;/p&gt;&lt;p&gt;D、十三个&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("97","1","明确提出中国经济体制改革的目标是建立社会主义市场经济体制的重要会议是（）。","C","&lt;p&gt;A、十一届三中全会&lt;/p&gt;&lt;p&gt;B、十三大&lt;/p&gt;&lt;p&gt;C、十四大&lt;/p&gt;&lt;p&gt;D、十四届三中全会&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("105","1","“十一五”时期，我国对外投资实现新突破，5年累计对外直接投资达到２２００亿美元，年均增长３０％左右，全球排名由“十五”期末的第十八位跃升至（），正逐步迈入对外投资大国行列。","A","&lt;p&gt;A、第五位&lt;/p&gt;&lt;p&gt;B、第十位&lt;/p&gt;&lt;p&gt;C、第十三位&lt;/p&gt;&lt;p&gt;D、第十五位&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("174","1","中国人民解放军的党组织，根据（）的指示进行工作。","A","&lt;p&gt;A、中央委员会&lt;/p&gt;&lt;p&gt;B、中央军事委员会&lt;/p&gt;&lt;p&gt;C、中央军委总政治部&lt;/p&gt;&lt;p&gt;D、所在地委员会&lt;/p&gt;")
+use kaoshi
+use kaoshi
+select * from x2_questions
+use kaoshi
+select * from x2_questions
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=199
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=37
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=34
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=30
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=208
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=86
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=75
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=76
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=68
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=216
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=189
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=116
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=226
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=43
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=53
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=26
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=99
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=168
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=209
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=139
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=146
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=204
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=138
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=36
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=203
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=176
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=137
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=35
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=163
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=123
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=426
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=314
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=334
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=413
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=353
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=316
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=347
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=271
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=319
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=256
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=395
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=476
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=452
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=396
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=282
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=629
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=529
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=628
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=598
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=683
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=683
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=492
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=498
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=608
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=675
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=735
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=636
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=695
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=552
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=721
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=767
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=491
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=560
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=537
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=749
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("199","1","中国共产党员要在生产、工作、学习和社会生活中起（）。","D","&lt;p&gt;A、桥梁作用&lt;/p&gt;&lt;p&gt;B、纽带作用&lt;/p&gt;&lt;p&gt;C、战斗堡垒作用&lt;/p&gt;&lt;p&gt;D、先锋模范作用&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("37","1","第一次提出“建设有中国特色的社会主义”这一概念，是在党的（）。","A","&lt;p&gt;A、十二大&lt;/p&gt;&lt;p&gt;B、十三大&lt;/p&gt;&lt;p&gt;C、十五大&lt;/p&gt;&lt;p&gt;D、十七大&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("34","1","毛泽东提出的“工农武装割据&quot;思想包括的三个组成部分是（）。","D","&lt;p&gt;A、武装斗争、统一战线、党的建设&lt;/p&gt;&lt;p&gt;B、实事求是、群众路线、独立自主&lt;/p&gt;&lt;p&gt;C、土地革命、党的建设、群众路线&lt;/p&gt;&lt;p&gt;D、武装斗争、土地革命、革命根据地&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("30","1","粉碎“四人帮”后，党中央、国务院决定恢复在“文化大革命”中被废弃的学校招生考试制度。（）年冬，全国高等学校重新开始通过统一考试招收新生。","B","&lt;p&gt;A、1976&lt;/p&gt;&lt;p&gt;B、1977&lt;/p&gt;&lt;p&gt;C、1978&lt;/p&gt;&lt;p&gt;D、1979&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("208","1","预备党员的预备期为（）。","A","&lt;p&gt;A、1年&lt;/p&gt;&lt;p&gt;B、2年&lt;/p&gt;&lt;p&gt;C、2.5年&lt;/p&gt;&lt;p&gt;D、3年&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("86","1","“中国不打美国牌，也不打苏联牌，中国也不允许别人打中国牌”，最能说明改革开放以来中国外交的显著特征是（）。","D","&lt;p&gt;A、反对霸权&lt;/p&gt;&lt;p&gt;B、睦邻友好&lt;/p&gt;&lt;p&gt;C、多边外交&lt;/p&gt;&lt;p&gt;D、不结盟&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("75","1","中国的改革开放在20世纪90年代进入到一个新的历史时期。其主要依据是（）。","C","&lt;p&gt;A、中国加入亚太经济合作组织&lt;/p&gt;&lt;p&gt;B、农村经济体制改革获得重大突破&lt;/p&gt;&lt;p&gt;C、确定了经济体制改革的目标&lt;/p&gt;&lt;p&gt;D、建设中国特色社会主义理论开始形成&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("76","1","“作为距离香港最近的城市，它最早成为中国开放的特区，与新中国改革开放的步伐共舞，短短的十几年时间，它已从一个小渔村迅速发展成中国最年轻的城市之一……”上述材料描述的城市是（）。","C","&lt;p&gt;A、广州&lt;/p&gt;&lt;p&gt;B、上海&lt;/p&gt;&lt;p&gt;C、深圳&lt;/p&gt;&lt;p&gt;D、珠海&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("68","1","科学发展观的本质特征是（）。","A","&lt;p&gt;A、实践性&lt;/p&gt;&lt;p&gt;B、科学性&lt;/p&gt;&lt;p&gt;C、可持续性&lt;/p&gt;&lt;p&gt;D、民主性&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("216","1","党员要求退党，应当经支部大会讨论后宣布（），并报上级党组织备案。","B","&lt;p&gt;A、开除&lt;/p&gt;&lt;p&gt;B、除名&lt;/p&gt;&lt;p&gt;C、给予党纪处分&lt;/p&gt;&lt;p&gt;D、给予通报批评&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("189","1","必须实行正确的集中，保证全党的团结统一和行动一致，保证（）得到迅速有效的贯彻执行。","D","&lt;p&gt;A、党的制度&lt;/p&gt;&lt;p&gt;B、党的纪律&lt;/p&gt;&lt;p&gt;C、党的思想&lt;/p&gt;&lt;p&gt;D、党的决定&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("116","1","中国共产党在莫斯科召开的全国代表大会是( )。","A","&lt;p&gt;A、党的六大&lt;/p&gt;&lt;p&gt;B、党的五大&lt;/p&gt;&lt;p&gt;C、党的四大&lt;/p&gt;&lt;p&gt;D、党的七大&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("226","1","在选举党的各级代表大会的代表和委员会委员时，应当采用（）的方式进行选举。","D","&lt;p&gt;A、举手表决&lt;/p&gt;&lt;p&gt;B、口头表决&lt;/p&gt;&lt;p&gt;C、记名投票&lt;/p&gt;&lt;p&gt;D、无记名投票&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("43","1","党的十一届三中全会以后，我国农村集体经济组织普遍采取了（）。","C","&lt;p&gt;A、政社合一的经营体制&lt;/p&gt;&lt;p&gt;B、三级所有的经营体制&lt;/p&gt;&lt;p&gt;C、家庭承包经营为基础的统分结合的双层经营体制&lt;/p&gt;&lt;p&gt;D、土地公有基础上家庭承包经营的分散式经营体制&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("53","1","“三个代表”重要思想创造性地回答了（）。","B","&lt;p&gt;A、什么是社会主义、怎样建设社会主义的问题&lt;/p&gt;&lt;p&gt;B、建设什么样的党、怎样建设党的问题&lt;/p&gt;&lt;p&gt;C、怎样建设中国特色社会主义的问题&lt;/p&gt;&lt;p&gt;D、怎样发展马克思主义的问题&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("26","1","共产党区别于其他任何政党的显著标志，使党的路线、方针得以顺利贯彻的根本保证的是（）。","B","&lt;p&gt;A、路线纲领&lt;/p&gt;&lt;p&gt;B、三大作风&lt;/p&gt;&lt;p&gt;C、组织机构&lt;/p&gt;&lt;p&gt;D、党纪党章&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("99","1","郭明义同志是助人为乐的道德模范，是新时期学习实践（）的优秀代表。","B","&lt;p&gt;A、民族精神&lt;/p&gt;&lt;p&gt;B、雷锋精神&lt;/p&gt;&lt;p&gt;C、社会主义荣辱观&lt;/p&gt;&lt;p&gt;D、科学发展&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("168","1","中国共产党在领导社会主义事业中，必须坚持以（）为中心，其他各项工作都服从和服务于这个中心。","A","&lt;p&gt;A、经济建设&lt;/p&gt;&lt;p&gt;B、政治建设&lt;/p&gt;&lt;p&gt;C、文化建设&lt;/p&gt;&lt;p&gt;D、国防建设&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("209","1","预备党员的预备期，从（）之日算起。","C","&lt;p&gt;A、递交入党申请书&lt;/p&gt;&lt;p&gt;B、递交入党志愿书&lt;/p&gt;&lt;p&gt;C、支部大会通过他为预备党员&lt;/p&gt;&lt;p&gt;D、上级党组织批准&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("139","1","中国抗日战争胜利纪念日是（）。","C","&lt;p&gt;A、8月15日&lt;/p&gt;&lt;p&gt;B、9月15日&lt;/p&gt;&lt;p&gt;C、9月3日&lt;/p&gt;&lt;p&gt;D、9月1日&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("146","1","2005年（）,中共中央总书记胡锦涛在北京与中国国民党主席连战举行正式会谈。这是60年来国共两党最高领导人的首次正式会谈。会后共同发布“两岸和平发展共同愿景”。","B","&lt;p&gt;A、4月28日&lt;/p&gt;&lt;p&gt;B、4月29日&lt;/p&gt;&lt;p&gt;C、4月30日&lt;/p&gt;&lt;p&gt;D、4月31日&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("204","1","当党员对党的决议和政策有不同意见时，下列说法中正确的是（）。","B","&lt;p&gt;A、可以不执行党的决议和政策&lt;/p&gt;&lt;p&gt;B、在坚决执行的前提下，可以声明保留，并且可以把自己的意见向党的上级组织直至中央提出&lt;/p&gt;&lt;p&gt;C、不允许向上级组织提出自己的意见&lt;/p&gt;&lt;p&gt;D、只允许向上一级组织提出自己的意见，不能向中央提出&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("138","1","1940年( )八路军发动取得毙伤日伪军2、5万多人等辉煌战果，沉重打击了日军，进一步提高了共产党和八路军的威望。","A","&lt;p&gt;A、百团大战&lt;/p&gt;&lt;p&gt;B、平型关大捷&lt;/p&gt;&lt;p&gt;C、台儿庄战役&lt;/p&gt;&lt;p&gt;D、徐州战役&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("36","1","社会主义初级阶段是（）。","D","&lt;p&gt;A、任何国家进入社会主义社会都会经历的起始阶段&lt;/p&gt;&lt;p&gt;B、新民主主义社会向社会主义社会的过渡时期&lt;/p&gt;&lt;p&gt;C、社会主义社会向共产主义社会的过渡时期&lt;/p&gt;&lt;p&gt;D、我国从社会主义改造完成到基本实现社会主义现代化所经历的阶段&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("203","1","在党组织讨论决定对党员的党纪处分或作出鉴定时，下列说法中正确的是（）。","D","&lt;p&gt;A、本人无权参加&lt;/p&gt;&lt;p&gt;B、本人无权进行申辩&lt;/p&gt;&lt;p&gt;C、其他党员不可以为他作证和辩护&lt;/p&gt;&lt;p&gt;D、本人有权参加和进行申辩&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("176","1","军队中党的组织体制和机构，由（）作出规定。（B）","B","&lt;p&gt;A、中央委员会&lt;/p&gt;&lt;p&gt;B、中央军事委员会&lt;/p&gt;&lt;p&gt;C、中央军委总政治部&lt;/p&gt;&lt;p&gt;D、军委常委&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("137","1","1930年底，蒋介石调集国民党10万大军对中央苏区进行了(A)的军事围剿。","A","&lt;p&gt;A、第一次大规模&lt;/p&gt;&lt;p&gt;B、第二次大规模&lt;/p&gt;&lt;p&gt;C、第三次大规模&lt;/p&gt;&lt;p&gt;D、第四次大规模&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("35","1","中国革命统一战线中，基本的、主要的联盟是（）。","A","&lt;p&gt;A、工人阶级同农民、城市小资产阶级和其他劳动者的联盟&lt;/p&gt;&lt;p&gt;B、工人阶级同可以合作的非劳动者的联盟&lt;/p&gt;&lt;p&gt;C、工人阶级同农民、民族资产阶级的联盟&lt;/p&gt;&lt;p&gt;D、工人阶级同城市小资产阶级的联盟&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("163","1","我国的社会主义建设，必须从我国的国情出发，走（）道路。","B","&lt;p&gt;A、社会主义&lt;/p&gt;&lt;p&gt;B、中国特色社会主义&lt;/p&gt;&lt;p&gt;C、改革开放&lt;/p&gt;&lt;p&gt;D、强国富民&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("123","1","( ),我国成功地爆炸第一颗原子弹,有力地打破了超级大国的核垄断和核讹诈,提高了我国的国际地位。","C","&lt;p&gt;A、1964年10月6日&lt;/p&gt;&lt;p&gt;B、1965年10月16日&lt;/p&gt;&lt;p&gt;C、1964年10月16日&lt;/p&gt;&lt;p&gt;D、1963年10月6日&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("426","2","党的十八大报告提出：千方百计增加居民收入，在收入分配过程中实现“两个同步”是指（）。","AC","&lt;p&gt;A、城乡居民收入增长和经济发展同步&lt;/p&gt;&lt;p&gt;B、城镇居民收入增长和经济发展同步&lt;/p&gt;&lt;p&gt;C、劳动报酬增长和生产率提高同步&lt;/p&gt;&lt;p&gt;D、国民生产总值增长和生产率提高同步&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("314","2","坚持不懈地反对腐败，加强党风建设和廉政建设，必须坚持（）、（）、惩防并举、（）的方针，建立健全惩治和预防腐败体系。（）","BCD","&lt;p&gt;A、加大力度&lt;/p&gt;&lt;p&gt;B、标本兼治&lt;/p&gt;&lt;p&gt;C、综合治理&lt;/p&gt;&lt;p&gt;D、注重预防&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("334","2","党的地方各级代表大会和基层代表大会的选举，如果发生违反（）的情况，上一级党的委员会在调查核实后，应作出选举（）和采取相应措施的决定，并报再上一级党的委员会审查批准，正式宣布执行。（）","BC","&lt;p&gt;A、宪法&lt;/p&gt;&lt;p&gt;B、党章&lt;/p&gt;&lt;p&gt;C、无效&lt;/p&gt;&lt;p&gt;D、取消&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("413","2","国家能源局表示，2011年，可再生能源“十二五”规划将全面实施，七个战略新兴产业发展规划全面启动，新能源和可再生能源迎来新的发展机遇期。下列说法不正确的是（　）。","ACD","&lt;p&gt;A、2015年，战略新兴产业增加值占国内生产总值的比重力争达15%左右&lt;/p&gt;&lt;p&gt;B、核能、水电、风能、太阳能和生物能均属于可再生能源&lt;/p&gt;&lt;p&gt;C、我国的水能资源的蕴藏量居世界第二位&lt;/p&gt;&lt;p&gt;D、青藏高原、新疆、内蒙古高原、贵州高原具有丰富的太阳辐射能&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("353","2","党内严格禁止用违反党章和（）的手段对待党员，严格禁止打击报复和诬告陷害。违反这些规定的组织或（）必须受到党的纪律和国家法律的追究。（）","BC","&lt;p&gt;A、党的纪律&lt;/p&gt;&lt;p&gt;B、国家法律&lt;/p&gt;&lt;p&gt;C、个人&lt;/p&gt;&lt;p&gt;D、领导&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("316","2","党必须适应形势的发展和情况的变化，（），（），改进领导方式。（）","AC","&lt;p&gt;A、完善领导体制&lt;/p&gt;&lt;p&gt;B、科学民主决策&lt;/p&gt;&lt;p&gt;C、增强执政能力&lt;/p&gt;&lt;p&gt;D、提高执政水平&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("347","2","党的基层组织应对党员进行教育、管理、监督和（），提高党员素质，增强党性，严格党的组织生活，开展批评和自我批评，维护和执行党的纪律，监督党员切实履行义务，保障党员的权利不受侵犯，加强和改进（）。（）","BD","&lt;p&gt;A、领导&lt;/p&gt;&lt;p&gt;B、服务&lt;/p&gt;&lt;p&gt;C、党组织建设&lt;/p&gt;&lt;p&gt;D、流动党员管理&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("271","2","1981年2月25日，全国总工会、共青团中央等九单位联合向全国人民特别是青少年发出倡议，开展以“五讲四美”为主要内容的文明礼貌活动。此后，这项活动又和“三热爱”活动相结合。“三热爱”指（）","ABC","&lt;p&gt;A、热爱祖国&lt;/p&gt;&lt;p&gt;B、热爱社会主义&lt;/p&gt;&lt;p&gt;C、热爱党&lt;/p&gt;&lt;p&gt;D、热爱人民&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("319","2","科学发展观，是同马克思列宁主义、毛泽东思想、邓小平理论和“三个代表”重要思想既一脉相承又与时俱进的（），是我国经济社会发展的（），是发展中国特色社会主义必须坚持和贯彻的（）。（）","BCD","&lt;p&gt;A、重要理论&lt;/p&gt;&lt;p&gt;B、科学理论&lt;/p&gt;&lt;p&gt;C、重要指导方针&lt;/p&gt;&lt;p&gt;D、重大战略思想&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("256","2","实事求是是毛泽东思想的精髓，是因为（）","BCD","&lt;p&gt;A、毛泽东在延安时为中央党校题了“实事求是”四个大字&lt;/p&gt;&lt;p&gt;B、实事求是是毛泽东思想的出发点、根本点&lt;/p&gt;&lt;p&gt;C、它是同毛泽东对中国革命道路的探索联系在一起的，是中国革命胜利的思想武器&lt;/p&gt;&lt;p&gt;D、实事求是与毛泽东思想紧密不可分&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("395","2","","","&lt;p&gt;A、&lt;/p&gt;&lt;p&gt;B、&lt;/p&gt;&lt;p&gt;C、&lt;/p&gt;&lt;p&gt;D、&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("476","2","十八大提出，完善基层民主的重点是（）。","ABCD","&lt;p&gt;A、扩大有序参与&lt;/p&gt;&lt;p&gt;B、推进信息公开&lt;/p&gt;&lt;p&gt;C、加强议事协商&lt;/p&gt;&lt;p&gt;D、强化权力监督&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("452","2","十八大报告政治指出：毛泽东第一代领导人为中国特色社会主义作出的主要贡献是（）。","ABC","&lt;p&gt;A、宝贵经验&lt;/p&gt;&lt;p&gt;B、理论准备&lt;/p&gt;&lt;p&gt;C、物质基础&lt;/p&gt;&lt;p&gt;D、重要思想&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("396","2","禁止党员领导干部脱离实际，弄虚作假，损害群众利益和党群干群关系，不准有以下哪些行为：（）。","ABC","&lt;p&gt;A、搞劳民伤财的“形象工程”和沽名钓誉的“政绩工程”；&lt;/p&gt;&lt;p&gt;B、虚报工作业绩；&lt;/p&gt;&lt;p&gt;C、在社会保障、政策扶持、救灾救济款物分配等事项中优亲厚友、显失公平；&lt;/p&gt;&lt;p&gt;D、获取荣誉、职称、学历学位等利益。&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("282","2","中国共产党成立90年、执政60多年、领导改革开放30多年来，几代中国共产党人始终以实现中华民族伟大复兴为己任，坚持把马克思主义基本原理同中国具体实际相结合，团结带领全国各族人民不懈奋斗，战胜各种艰难险阻，不断取得革命、建设、改革的伟大胜利。我们从实践中得出的结论有（）","ABC","&lt;p&gt;A、没有共产党就没有新中国&lt;/p&gt;&lt;p&gt;B、只有社会主义才能救中国&lt;/p&gt;&lt;p&gt;C、只有社会主义才能发展中国&lt;/p&gt;&lt;p&gt;D、党的基本路线要永远坚持下去&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("629","3","党的全国代表大会每五年举行一次，不得提前或延期举行。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("529","3","毛泽东确定的人民军队建设的最根本原则是政治工作，这是人民军队的生命线。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("628","3","党的最高领导机关是党的全国代表大会和它所产生的中央委员会。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("598","3","党员有权向党的上级组织直至中央提出请求、申诉和控告，并要求有关组织给以负责的答复。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("683","3","非党组织有国家机关、人民团体、经济组织、文化组织等。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("683","3","非党组织有国家机关、人民团体、经济组织、文化组织等。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("492","3","我国社会的主要矛盾是人民日益增长的物质文化需要同落后的社会生产之间的矛盾。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("498","3","1927年9月9日，由毛泽东和湖南省委领导、组织的秋收起义，使中国革命开始走上了农村包围城市、武装夺取政权的正确道路。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("608","3","上级党组织在批准申请人入党以前，要派人同他谈话，作进一步的了解，并帮助他提高对党的认识。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("675","3","敌我矛盾和人民内部矛盾是两类不同性质的矛盾。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("735","3","加强社会建设必须以促进公平为重点。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("636","3","党的地方各级代表大会，在特殊情况下，经上一级委员会批准，可以提前或延期举行。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("695","3","职务高的党员能个人决定党内重大问题。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("552","3","深入贯彻落实科学发展观，关键在于提高各级领导班子和领导干部领导科学发展能力。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("721","3","新型农村社区规划建设应按照“分类指导、科学规划、产城融合、群众自愿、量力而行”的指导思想,遵循发展性、相融性、多样性和共享性等原则。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("767","3","坚持转变政府职能，推进政企分开、政资分开、政事分开、政社分开，建设人民满意的服务型政府。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("491","3","中国第一个共产主义小组由陈独秀等人于1920年8月在上海建立。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("560","3","中国的经济体制改革首先从农村开始，采取的主要形式是家庭联产承包责任制。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("537","3","邓小平提出在我国社会主义建设中，判断各方面工作是非得失的标准，归根到底看其是否有利于提高全民族的科学文化素质。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("749","3","过去5年，年均国内生产总值增速超过9%。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 4470,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 720,30
+select questionid from x2_questions
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 750,30
+select questionid from x2_questions
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=179
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=29
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=7
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=58
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=154
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=187
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=129
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=202
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=138
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=128
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=152
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=27
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=169
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=209
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=147
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=163
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=92
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=25
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=21
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=131
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=208
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=198
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=157
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=50
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=105
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=169
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=68
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=178
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=165
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=76
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=278
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=344
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=405
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=318
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=390
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=444
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=339
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=484
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=361
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=372
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=330
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=459
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=235
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=490
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=243
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=558
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=732
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=637
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=642
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=580
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=661
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=698
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=505
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=747
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=663
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=587
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=493
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=759
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=559
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=713
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=732
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=765
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=705
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=593
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=721
+select questionid from tmp_question
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("179","1","基层委员会、总支部委员会、支部委员会的书记、（）选举产生后，应报上级党组织批准。（A）","A","&lt;p&gt;A、副书记&lt;/p&gt;&lt;p&gt;B、组织书记&lt;/p&gt;&lt;p&gt;C、纪检书记&lt;/p&gt;&lt;p&gt;D、党委委员&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("29","1","“越顶外交”一词出现于20世纪70年代，日本媒体将当时世界一大国绕过日本率先访问另一国家的外交举动称为“越顶外交”。与“越顶外交”一词有关的历史事件是（）。","C","&lt;p&gt;A、毛泽东访问苏联&lt;/p&gt;&lt;p&gt;B、邓小平访问美国&lt;/p&gt;&lt;p&gt;C、尼克松访问中国&lt;/p&gt;&lt;p&gt;D、周恩来访问印度&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("7","1","1934年10月，中央红军开始长征后，留在中央根据地领导南方游击战争的是（）。","B","&lt;p&gt;A、彭德怀项英&lt;/p&gt;&lt;p&gt;B、项英陈毅&lt;/p&gt;&lt;p&gt;C、叶挺粟裕&lt;/p&gt;&lt;p&gt;D、粟裕陈毅&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("58","1","学习“三个代表”重要思想的根本出发点和落脚点是（）。","C","&lt;p&gt;A、壮大和发展公有经济&lt;/p&gt;&lt;p&gt;B、坚持共产党领导多党合作制度&lt;/p&gt;&lt;p&gt;C、最广大人民的根本利益&lt;/p&gt;&lt;p&gt;D、发展社会主义先进文化&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("154","1","十八次党章于2012年11月（）日通过。","B","&lt;p&gt;A、8&lt;/p&gt;&lt;p&gt;B、14&lt;/p&gt;&lt;p&gt;C、15&lt;/p&gt;&lt;p&gt;D、16&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("187","1","（）问题、党同人民群众联系问题是关系党生死存亡的问题。","B","&lt;p&gt;A、旗帜&lt;/p&gt;&lt;p&gt;B、党风&lt;/p&gt;&lt;p&gt;C、先进性&lt;/p&gt;&lt;p&gt;D、纯洁性&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("129","1","大革命失败后，以毛泽东为主要代表的中国共产党人走上了（A）的道路。历史证明，这是中国革命走向胜利的唯一正确的道路。","A","&lt;p&gt;A、在农村建立根据地，以农村包围城市、武装夺取政权&lt;/p&gt;&lt;p&gt;B、夺取敌人力量相对弱小的城市和发动城市暴动相结合&lt;/p&gt;&lt;p&gt;C、领导、组织工人运动来推动革命的发展&lt;/p&gt;&lt;p&gt;D、领导、组织农民运动来推动革命的发展&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("202","1","申请入党的人，要有（）正式党员作介绍人。（B）","B","&lt;p&gt;A、一名&lt;/p&gt;&lt;p&gt;B、两名&lt;/p&gt;&lt;p&gt;C、三名&lt;/p&gt;&lt;p&gt;D、四名&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("138","1","1940年( )八路军发动取得毙伤日伪军2、5万多人等辉煌战果，沉重打击了日军，进一步提高了共产党和八路军的威望。","A","&lt;p&gt;A、百团大战&lt;/p&gt;&lt;p&gt;B、平型关大捷&lt;/p&gt;&lt;p&gt;C、台儿庄战役&lt;/p&gt;&lt;p&gt;D、徐州战役&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("128","1","2004年11月,中共中央决定,从2005年1月开始,分三批在全党开展以实践( )为主要内容的保持共产党员先进性教育活动。","C","&lt;p&gt;A、邓小平理论&lt;/p&gt;&lt;p&gt;B、邓小平理论&lt;/p&gt;&lt;p&gt;C、“三个代表”重要思想&lt;/p&gt;&lt;p&gt;D、科学发展观&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("152","1","十八大党章共11章（）条。","B","&lt;p&gt;A、50&lt;/p&gt;&lt;p&gt;B、53&lt;/p&gt;&lt;p&gt;C、58&lt;/p&gt;&lt;p&gt;D、60&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("27","1","为了克服我国20世纪50年代末发生的严重经济困难，中央决定对国民经济实行“调整、巩固、充实、提高”的八字方针。制定此方针的会议是（）。","B","&lt;p&gt;A、中国八届八中全会&lt;/p&gt;&lt;p&gt;B、中共八届九中全会&lt;/p&gt;&lt;p&gt;C、七千人大会&lt;/p&gt;&lt;p&gt;D、中共八届十中全会&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("169","1","党的各级代表大会的代表和委员候选人名单要由（）和选举人充分酝酿讨论。","A","&lt;p&gt;A、党组织&lt;/p&gt;&lt;p&gt;B、党代表&lt;/p&gt;&lt;p&gt;C、候选人&lt;/p&gt;&lt;p&gt;D、党委成员&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("209","1","预备党员的预备期，从（）之日算起。","C","&lt;p&gt;A、递交入党申请书&lt;/p&gt;&lt;p&gt;B、递交入党志愿书&lt;/p&gt;&lt;p&gt;C、支部大会通过他为预备党员&lt;/p&gt;&lt;p&gt;D、上级党组织批准&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("147","1","1975年,邓小平部署以（）为突破口,对各条战线进行整顿。","B","&lt;p&gt;A、军队整顿&lt;/p&gt;&lt;p&gt;B、铁路整顿&lt;/p&gt;&lt;p&gt;C、农业整顿&lt;/p&gt;&lt;p&gt;D、商业整顿&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("163","1","我国的社会主义建设，必须从我国的国情出发，走（）道路。","B","&lt;p&gt;A、社会主义&lt;/p&gt;&lt;p&gt;B、中国特色社会主义&lt;/p&gt;&lt;p&gt;C、改革开放&lt;/p&gt;&lt;p&gt;D、强国富民&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("92","1","人民解放军进驻香港和澳门分别在（）。","A","&lt;p&gt;A、1997年和1999年&lt;/p&gt;&lt;p&gt;B、1990年和1999年&lt;/p&gt;&lt;p&gt;C、1997年和2000年&lt;/p&gt;&lt;p&gt;D、1984年和1987年&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("25","1","以下不属于党的三大作风的内容是（）。","B","&lt;p&gt;A、理论和实践相结合的作风&lt;/p&gt;&lt;p&gt;B、艰苦朴素的作风&lt;/p&gt;&lt;p&gt;C、与人民群众紧密地联系在一起的作风&lt;/p&gt;&lt;p&gt;D、批评及自我批评的作风&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("21","1","下列各项中，与“新中国成立初期民主政治制度的特点”这一主题有联系的是（)。","B","&lt;p&gt;A、“人民公社化”运动的开展&lt;/p&gt;&lt;p&gt;B、第一届全国人大的召开&lt;/p&gt;&lt;p&gt;C、和平共处五项原则的提出&lt;/p&gt;&lt;p&gt;D、第一个五年计划的完成&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("131","1","中国共产党解决民族问题的基本政策是（）。","B","&lt;p&gt;A、民族自治&lt;/p&gt;&lt;p&gt;B、民族区域自治&lt;/p&gt;&lt;p&gt;C、民族平等&lt;/p&gt;&lt;p&gt;D、民族融合&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("208","1","预备党员的预备期为（）。","A","&lt;p&gt;A、1年&lt;/p&gt;&lt;p&gt;B、2年&lt;/p&gt;&lt;p&gt;C、2.5年&lt;/p&gt;&lt;p&gt;D、3年&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("198","1","党章规定，党员必须履行的权利有（）。","C","&lt;p&gt;A、6项&lt;/p&gt;&lt;p&gt;B、7项&lt;/p&gt;&lt;p&gt;C、8项&lt;/p&gt;&lt;p&gt;D、10项&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("157","1","“三个代表”重要思想是对马克思列宁主义、毛泽东思想、邓小平理论的（）和发展。","B","&lt;p&gt;A、丰富&lt;/p&gt;&lt;p&gt;B、继承&lt;/p&gt;&lt;p&gt;C、创新&lt;/p&gt;&lt;p&gt;D、巩固&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("50","1","“和平统一、一国两制”的前提是（）。","A","&lt;p&gt;A、一个中国&lt;/p&gt;&lt;p&gt;B、港澳台高度自治&lt;/p&gt;&lt;p&gt;C、国家主体部分实行社会主义制度&lt;/p&gt;&lt;p&gt;D、港澳台的资本主义制度不变&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("105","1","“十一五”时期，我国对外投资实现新突破，5年累计对外直接投资达到２２００亿美元，年均增长３０％左右，全球排名由“十五”期末的第十八位跃升至（），正逐步迈入对外投资大国行列。","A","&lt;p&gt;A、第五位&lt;/p&gt;&lt;p&gt;B、第十位&lt;/p&gt;&lt;p&gt;C、第十三位&lt;/p&gt;&lt;p&gt;D、第十五位&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("169","1","党的各级代表大会的代表和委员候选人名单要由（）和选举人充分酝酿讨论。","A","&lt;p&gt;A、党组织&lt;/p&gt;&lt;p&gt;B、党代表&lt;/p&gt;&lt;p&gt;C、候选人&lt;/p&gt;&lt;p&gt;D、党委成员&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("68","1","科学发展观的本质特征是（）。","A","&lt;p&gt;A、实践性&lt;/p&gt;&lt;p&gt;B、科学性&lt;/p&gt;&lt;p&gt;C、可持续性&lt;/p&gt;&lt;p&gt;D、民主性&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("178","1","党的地方各级代表大会如提前或延期举行，由它选举的委员会的任期（）。","B","&lt;p&gt;A、不变&lt;/p&gt;&lt;p&gt;B、相应地改变&lt;/p&gt;&lt;p&gt;C、无效&lt;/p&gt;&lt;p&gt;D、中断&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("165","1","在生产发展和社会财富增长的基础上不断满足人民日益增长的物质文化需要，促进（）的全面发展。","D","&lt;p&gt;A、经济&lt;/p&gt;&lt;p&gt;B、社会&lt;/p&gt;&lt;p&gt;C、国家&lt;/p&gt;&lt;p&gt;D、人&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("76","1","“作为距离香港最近的城市，它最早成为中国开放的特区，与新中国改革开放的步伐共舞，短短的十几年时间，它已从一个小渔村迅速发展成中国最年轻的城市之一……”上述材料描述的城市是（）。","C","&lt;p&gt;A、广州&lt;/p&gt;&lt;p&gt;B、上海&lt;/p&gt;&lt;p&gt;C、深圳&lt;/p&gt;&lt;p&gt;D、珠海&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("278","2","2008年6月,胡锦涛在抗震救灾先进基层党组织和优秀共产党员代表座谈会讲话中,概括了抗震救灾精神的内涵,即万众一心、众志成城（）","ABCD","&lt;p&gt;A、不畏艰险&lt;/p&gt;&lt;p&gt;B、百折不挠&lt;/p&gt;&lt;p&gt;C、以人为本&lt;/p&gt;&lt;p&gt;D、尊重科学&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("344","2","党的地区委员会和相当于地区委员会的组织，是党的省、自治区委员会在几个（）范围内派出的代表（）机关。它根据（）的授权，领导本地区的工作。（）","AD","&lt;p&gt;A、代表&lt;/p&gt;&lt;p&gt;B、领导&lt;/p&gt;&lt;p&gt;C、县、自治县、市&lt;/p&gt;&lt;p&gt;D、省、自治区委员会&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("405","2","下列那种行为一定违反了《廉政准则》中关于禁止违反规定选拔任用干部的规定？（）","BD","&lt;p&gt;A、向当事人通告民主测评的情况及结果；&lt;/p&gt;&lt;p&gt;B、在工作调动时突击提拔干部；&lt;/p&gt;&lt;p&gt;C、给原任职地区干部选拔工作提出自己的建议和意见；&lt;/p&gt;&lt;p&gt;D、在干部选拔任用工作中封官许愿。&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("318","2","十六大以来，党中央坚持以邓小平理论和“三个代表”重要思想为指导，根据新的发展要求，集中全党智慧，提出了（）、（）的科学发展观。（）","BD","&lt;p&gt;A、以经济建设为中心&lt;/p&gt;&lt;p&gt;B、以人为本&lt;/p&gt;&lt;p&gt;C、全面协调统筹持续发展&lt;/p&gt;&lt;p&gt;D、全面协调可持续发展&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("390","2","禁止党员领导干部利用职权和职务上的影响谋取不正当利益，不准有以下哪些行为：（）。","ABCD","&lt;p&gt;A、索取、接受或者以借为名占用管理和服务对象以及其他与行使职权有关系的单位或者个人的财物；&lt;/p&gt;&lt;p&gt;B、以交易、委托理财等形式谋取不正当利益；&lt;/p&gt;&lt;p&gt;C、利用知悉或者掌握的内幕信息谋取利益；&lt;/p&gt;&lt;p&gt;D、违反规定多占住房，或者违反规定买卖经济适用房、廉租住房等保障性住房。&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("444","2","十八大政治报告提出，十年来我国经济总量从世界第六位上升到第二位，重要意义在于（）。","ABC","&lt;p&gt;A、社会生产力、经济实力、科技实力迈上一个大台阶&lt;/p&gt;&lt;p&gt;B、人民生活水平、居民收入水平、社会保障水平迈上一个大台阶&lt;/p&gt;&lt;p&gt;C、综合国力、国际竞争力、国际影响力迈上一个大台阶&lt;/p&gt;&lt;p&gt;D、国际话语权和世界领导作用迈上了一个大台阶&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("339","2","党的中央政治局、中央政治局常务委员会和中央委员会总书记，由（）选举。中央委员会总书记必须从中央政治局（）中产生。（）","AC","&lt;p&gt;A、中央委员会全体会议&lt;/p&gt;&lt;p&gt;B、全国代表大会&lt;/p&gt;&lt;p&gt;C、常务委员会委员&lt;/p&gt;&lt;p&gt;D、政治局委员&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("484","2","十八大提出，我国在外交和国际政治活动中坚持弘扬的基本精神是（）。","ABC","&lt;p&gt;A、平等互信&lt;/p&gt;&lt;p&gt;B、包容互鉴&lt;/p&gt;&lt;p&gt;C、合作共赢&lt;/p&gt;&lt;p&gt;D、相互依存&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("361","2","“三个代表”重要思想反映了当代世界和中国的发展变化对（）的新要求，是加强和改进党的建设、推进我国社会主义（）和发展的强大（）武器。（）","BCD","&lt;p&gt;A、党的工作&lt;/p&gt;&lt;p&gt;B、党和国家工作&lt;/p&gt;&lt;p&gt;C、自我完善&lt;/p&gt;&lt;p&gt;D、理论&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("372","2","加强各级领导班子建设，选拔使用在改革开放和社会主义现代化建设中政绩突出、（）的干部，培养和造就千百万社会主义事业接班人，从组织上保证党的基本理论、基本路线、基本纲领、（）的贯彻落实。（）","BD","&lt;p&gt;A、坚持原则&lt;/p&gt;&lt;p&gt;B、群众信任&lt;/p&gt;&lt;p&gt;C、方针政策&lt;/p&gt;&lt;p&gt;D、基本经验&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("330","2","党的建设必须坚决实现的基本要求是坚持（）。坚持解放思想，实事求是，与时俱进，求真务实。坚持（）。坚持民主集中制。（）","AC","&lt;p&gt;A、党的基本路线&lt;/p&gt;&lt;p&gt;B、从严治党&lt;/p&gt;&lt;p&gt;C、全心全意为人民服务&lt;/p&gt;&lt;p&gt;D、党要管党&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("459","2","十八大强调，坚持走中国特色新型工业化、信息化、城镇化、农业现代化道路，正确处理“四化“之间相互关系的基本要求是（）。","ABCD","&lt;p&gt;A、信息化和工业化深度融合&lt;/p&gt;&lt;p&gt;B、工业化和城镇化良性互动&lt;/p&gt;&lt;p&gt;C、城镇化和农村现代化相互协调&lt;/p&gt;&lt;p&gt;D、工业化、信息化、城镇化、农业现代化同步发展&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("235","2","1938，毛泽东发表了《论持久战》，科学地预见了抗日战争将经过的三个阶段是（）。","ACD","&lt;p&gt;A、战略防御&lt;/p&gt;&lt;p&gt;B、战略退却&lt;/p&gt;&lt;p&gt;C、战略相持&lt;/p&gt;&lt;p&gt;D、战略反攻&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("490","2","中国特色社会主义文化发展道路主要内容是（）。","ABCD","&lt;p&gt;A、坚持为人民服务、为社会主义服务的方向&lt;/p&gt;&lt;p&gt;B、坚持百花齐放、百家争鸣的方针&lt;/p&gt;&lt;p&gt;C、坚持贴近实际、贴近生活、贴近群众的原则&lt;/p&gt;&lt;p&gt;D、推动精神文明和物质文明全面发展，建设面向现代化、面向世界、面向未来的社会主义先进文化&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("243","2","和平共处五项原则指互相尊重主权和领土完整（）。","ABCD","&lt;p&gt;A、互不侵犯&lt;/p&gt;&lt;p&gt;B、互不干涉内政&lt;/p&gt;&lt;p&gt;C、平等互利&lt;/p&gt;&lt;p&gt;D、和平共处&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("558","3","1978年5月，在全国范围内展开的关于真理标准问题的大讨论，重申了“实践是检验真理的惟一标准”，从根本上否定了“两个凡是”的错误方针。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("732","3","中国特色社会主义的根本任务是解放和发展社会生产力。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("637","3","党的地方各级委员会全体会议定期向常务委员会报告工作，接受监督。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("642","3","国有企业和集体企业中党的基层组织，发挥政治核心作用。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("580","3","社会和谐是中国特色社会主义的本质属性，是国家富强、民族振兴、人民幸福的重要保证。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("661","3","党的基层委员会只能设立纪律检查委员会。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("698","3","党的各级代表大会代表实行连任制。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("505","3","中国革命必须分两步走，第一步是新民主主义革命，第二步是社会主义革命，其间不允许横插一个资产阶级专政的阶段。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("747","3","三个代表重要思想回答了什么是社会主义、怎样建设社会主义的问题。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("663","3","对下属单位实行集中统一领导的国家工作部门可以建立党委。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("587","3","发展中国特色社会主义必须坚持和贯彻科学发展观。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("493","3","中国共产党的建立，是中国开天辟地的大事件。自从有了共产党，中国革命的面貌就焕然一新。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("759","3","国民受教育程度大幅提升，15岁以上人口平均受教育年限达到10年以上。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("559","3","党的十一届三中全会，果断地停止了“以阶级斗争为纲”，提出把党和国家的工作重点转移到社会主义革命上来。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("713","3","党员领导干部不准挪用或者拆借社会保障基金、住房公积金等公共资金或者其他财政资金。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("732","3","中国特色社会主义的根本任务是解放和发展社会生产力。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("765","3","文化是民族的血脉和人民的精神家园。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("705","3","党员在留党察看期间，可以向群众宣传党的主张，但不能向党反映群众的意见和要求。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("593","3","由于国内的因素和国际的影响，阶级斗争还在一定范围内长期存在，在某种条件下还有可能激化，但已经不是主要矛盾。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("721","3","新型农村社区规划建设应按照“分类指导、科学规划、产城融合、群众自愿、量力而行”的指导思想,遵循发展性、相融性、多样性和共享性等原则。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,email,flag) values("2","wwwww","222222","1654206898@qq.com","0")
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select user,pwd from memuser where user = w and pwd= 1111
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = w and pwd= 1111
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = w and pwd= 1111
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = w and pwd= 1111
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = w and pwd= 1111
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = w and pwd= 1111
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = w and pwd= 1111
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user =  w and pwd= 1111
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "w" and pwd= "1111"
+update memuserset flag = 0 where user = 
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select user,pwd from memuser where user = "" and pwd= ""
+update memuser set flag = 1 where user = 
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "" and pwd= ""
+update memuser set flag = 1 where user = 
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "" and pwd= ""
+update memuser set flag = 1 where user = 
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "" and pwd= ""
+update memuser set flag = 1 where user = 
+update memuserset flag = 0 where user = w
+use kaoshi
+select user,pwd from memuser where user = "" and pwd= ""
+update memuser set flag = 1 where user = 
+update memuserset flag = 0 where user = 
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select user,pwd from memuser where user = "w" and pwd= "1111"
+update memuser set flag = 1 where user = w
+update memuserset flag = 0 where user = 
+use kaoshi
+select * from tmp_question
+use kaoshi
+select user,pwd from memuser where user = "" and pwd= ""
+update memuser set flag = 1 where user = 
+update memuserset flag = 0 where user = w
+use kaoshi
+select user,pwd from memuser where user = " wanwenjie" and pwd= "55555"
+update memuser set flag = 1 where user =  wanwenjie
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "" and pwd= ""
+update memuser set flag = 1 where user = 
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "" and pwd= ""
+update memuser set flag = 1 where user = 
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "" and pwd= ""
+update memuser set flag = 1 where user = 
+update memuserset flag = 0 where user = 
+use kaoshi
+select * from memuser
+select id from memuser
+use kaoshi
+select user,pwd from memuser where user = "wanwenjie" and pwd= "55555"
+update memuser set flag = 1 where user = wanwenjie
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "wanwenjie" and pwd= "555555"
+update memuser set flag = 1 where user = wanwenjie
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "wanwenjie" and pwd= "55555"
+update memuser set flag = 1 where user = wanwenjie
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "w" and pwd= "1111"
+update memuser set flag = 1 where user = w
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "wanwenjie" and pwd= "55555"
+update memuser set flag = 1 where user = wanwenjie
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "wanwenjie" and pwd= "55555"
+update memuser set flag = 1 where user = "wanwenjie"
+update memuserset flag = 0 where user = 
+use kaoshi
+select user,pwd from memuser where user = "wanwenjie" and pwd= "55555"
+update memuser set flag = 1 where user = "wanwenjie"
+update memuser set flag = 0 where user = ""
+use kaoshi
+select * from tmp_question
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+use kaoshi
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=177
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=212
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=52
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=111
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=3
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=70
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=191
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=129
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=206
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=124
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=131
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=13
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=17
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=71
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=196
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=179
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=173
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=103
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=56
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=67
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=211
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=200
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=23
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=201
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=161
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=120
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=163
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=131
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=75
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=197
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=423
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=306
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=442
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=403
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=386
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=316
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=301
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=307
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=481
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=311
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=241
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=396
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=419
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=296
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=409
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=734
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=640
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=585
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=549
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=581
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=740
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=738
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=727
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=513
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=723
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=645
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=704
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=536
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=652
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=519
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=689
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=679
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=736
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=650
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions where questionid=661
+select questionid from tmp_question
+truncate table tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("177","1","在国际事务中，维护我国的（），反对霸权主义和强权政治，维护世界和平，促进人类进步，努力推动建设持久和平、共同繁荣的和谐世界。","A","&lt;p&gt;A、独立和主权&lt;/p&gt;&lt;p&gt;B、发展与稳定&lt;/p&gt;&lt;p&gt;C、良好发展环境&lt;/p&gt;&lt;p&gt;D、繁荣富强&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("212","1","预备党员转为正式党员，或延长预备期，或取消预备党员资格，都应当经（）讨论通过和上级党组织批准。","A","&lt;p&gt;A、支部大会&lt;/p&gt;&lt;p&gt;B、支部委员会&lt;/p&gt;&lt;p&gt;C、上级支部委员会&lt;/p&gt;&lt;p&gt;D、党小组&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("52","1","贯彻“三个代表”重要思想，必须把（）作为党执政兴国的第一要务，不断开创现代化建设的新局面。","C","&lt;p&gt;A、教育&lt;/p&gt;&lt;p&gt;B、经济&lt;/p&gt;&lt;p&gt;C、发展&lt;/p&gt;&lt;p&gt;D、稳定&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("111","1","1921年( ),党的一大在上海开幕,最后一天的会议转移到浙江嘉兴南湖举行。","C","&lt;p&gt;A、6月20日&lt;/p&gt;&lt;p&gt;B、7月1日&lt;/p&gt;&lt;p&gt;C、7月23日&lt;/p&gt;&lt;p&gt;D、7月24日&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("3","1","中国共产党第（）次全国代表大会，制定了作为一个完备形态的政党所不可缺少的民主革命纲领，制定了党的章程，完成了建党任务。","B","&lt;p&gt;A、—&lt;/p&gt;&lt;p&gt;B、二&lt;/p&gt;&lt;p&gt;C、三&lt;/p&gt;&lt;p&gt;D、四&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("70","1","落实科学发展观，就必须树立正确的政绩观，我们要用全面的、实践的、群众的观点看待政绩，追求政绩的根本出发点和归宿是（）。","A","&lt;p&gt;A、实现人民群众的根本利益&lt;/p&gt;&lt;p&gt;B、建设社会主义和谐社会&lt;/p&gt;&lt;p&gt;C、实践“三个代表”重要思想&lt;/p&gt;&lt;p&gt;D、发展中国特色社会主义&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("191","1","党必须集中精力领导经济建设，组织、协调各方面的力量，同心协力，围绕（）开展工作，促进经济社会全面发展。","C","&lt;p&gt;A、思想建设&lt;/p&gt;&lt;p&gt;B、政治建设&lt;/p&gt;&lt;p&gt;C、经济建设&lt;/p&gt;&lt;p&gt;D、文化建设&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("129","1","大革命失败后，以毛泽东为主要代表的中国共产党人走上了（A）的道路。历史证明，这是中国革命走向胜利的唯一正确的道路。","A","&lt;p&gt;A、在农村建立根据地，以农村包围城市、武装夺取政权&lt;/p&gt;&lt;p&gt;B、夺取敌人力量相对弱小的城市和发动城市暴动相结合&lt;/p&gt;&lt;p&gt;C、领导、组织工人运动来推动革命的发展&lt;/p&gt;&lt;p&gt;D、领导、组织农民运动来推动革命的发展&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("206","1","基层党组织应监督党员干部和其他任何工作人员严格遵守国法政纪，严格遵守（）和人事制度，不得侵占国家、集体和群众的利益。","C","&lt;p&gt;A、党章&lt;/p&gt;&lt;p&gt;B、党规&lt;/p&gt;&lt;p&gt;C、国家的财政经济法规&lt;/p&gt;&lt;p&gt;D、公务员守则&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("124","1","1964年12月至1965年1月,三届全国人大一次会议举行。这次会议提出了( )的任务。","C","&lt;p&gt;A、调整国民经济&lt;/p&gt;&lt;p&gt;B、建设工业化国家&lt;/p&gt;&lt;p&gt;C、实现四个现代化&lt;/p&gt;&lt;p&gt;D、实现农业现代化&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("131","1","中国共产党解决民族问题的基本政策是（）。","B","&lt;p&gt;A、民族自治&lt;/p&gt;&lt;p&gt;B、民族区域自治&lt;/p&gt;&lt;p&gt;C、民族平等&lt;/p&gt;&lt;p&gt;D、民族融合&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("13","1","中国人民经过八年抗战，最终取得胜利。日本宣布无条件投降是在（）。","B","&lt;p&gt;A、1945年8月8日&lt;/p&gt;&lt;p&gt;B、1945年8月15日&lt;/p&gt;&lt;p&gt;C、1945年9月2日&lt;/p&gt;&lt;p&gt;D、1949年7月26日&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("17","1","1949年10月1日、中华人民共和国成立。新中国的建立，标志着近代以来中国面临的争取（）这个历史任务的基本完成。","D","&lt;p&gt;A、自立于世界民族之林&lt;/p&gt;&lt;p&gt;B、实现四个现代化&lt;/p&gt;&lt;p&gt;C、实现中华民族伟大复兴&lt;/p&gt;&lt;p&gt;D、民族独立、人民解放&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("71","1","党的十七大《报告》指出，（）是发展中国特色社会主义的基本要求。","A","&lt;p&gt;A、科学发展、社会和谐&lt;/p&gt;&lt;p&gt;B、解放思想、实事求是&lt;/p&gt;&lt;p&gt;C、改革开放、自力更生&lt;/p&gt;&lt;p&gt;D、与时俱进、统筹兼顾&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("196","1","除了法律和（）规定范围内的个人利益和工作职权以外，所有共产党员都不得谋求任何私利和特权。","D","&lt;p&gt;A、宪法&lt;/p&gt;&lt;p&gt;B、法规&lt;/p&gt;&lt;p&gt;C、党规&lt;/p&gt;&lt;p&gt;D、政策&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("179","1","基层委员会、总支部委员会、支部委员会的书记、（）选举产生后，应报上级党组织批准。（A）","A","&lt;p&gt;A、副书记&lt;/p&gt;&lt;p&gt;B、组织书记&lt;/p&gt;&lt;p&gt;C、纪检书记&lt;/p&gt;&lt;p&gt;D、党委委员&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("173","1","坚持和完善（）制度，维护和发展平等团结互助和谐的社会主义民族关系，积极培养、选拔少数民族干部，帮助各少数民族地区发展经济、文化，实现各民族的共同繁荣和全面进步。","A","&lt;p&gt;A、民族区域自治&lt;/p&gt;&lt;p&gt;B、人民代表大会&lt;/p&gt;&lt;p&gt;C、共产党领导的多党合作&lt;/p&gt;&lt;p&gt;D、政治协商&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("103","1","羊城豪情点燃亚运盛会，珠江光影拥抱和谐亚洲。第十六届广州亚洲运动会中国体育代表团取得了（）金牌的优异成绩。","C","&lt;p&gt;A、51枚&lt;/p&gt;&lt;p&gt;B、89枚&lt;/p&gt;&lt;p&gt;C、199枚&lt;/p&gt;&lt;p&gt;D、78枚&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("56","1","从根本上说，“三个代表”重要思想是在科学判断（）。","A","&lt;p&gt;A、党的历史方位的基础上提出的&lt;/p&gt;&lt;p&gt;B、社会主义建设形势的基础上提出的&lt;/p&gt;&lt;p&gt;C、当今国际形势的基础上提出的&lt;/p&gt;&lt;p&gt;D、党的自身变化的基础上提出的&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("67","1","科学发展观的根本方法是（）。","B","&lt;p&gt;A、发展&lt;/p&gt;&lt;p&gt;B、统筹兼顾&lt;/p&gt;&lt;p&gt;C、全面协调可持续&lt;/p&gt;&lt;p&gt;D、以人为本&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("211","1","预备党员预备期满后，党组织经过考察认为其不履行党员义务，不具备党员条件的，应当（）。","C","&lt;p&gt;A、留党察看&lt;/p&gt;&lt;p&gt;B、延长预备期&lt;/p&gt;&lt;p&gt;C、取消预备党员资格&lt;/p&gt;&lt;p&gt;D、给予党纪处分&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("200","1","基层党组织要密切联系群众，经常了解群众对（）、党的工作的批评和意见，维护群众的正当权利和利益，做好群众的思想政治工作。","B","&lt;p&gt;A、党组织&lt;/p&gt;&lt;p&gt;B、党员&lt;/p&gt;&lt;p&gt;C、书记&lt;/p&gt;&lt;p&gt;D、班子成员&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("23","1","党的十一届三中全会把全党的工作重点转移到（）上来，提出了( )的重要思想。","A","&lt;p&gt;A、社会主义现代化建设改革开放&lt;/p&gt;&lt;p&gt;B、社会主义现代化建设实事求是&lt;/p&gt;&lt;p&gt;C、改革开放实事求是&lt;/p&gt;&lt;p&gt;D、经济建设改革开放&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("201","1","党员有权要求（）或撤换不称职的干部。","B","&lt;p&gt;A、开除&lt;/p&gt;&lt;p&gt;B、罢免&lt;/p&gt;&lt;p&gt;C、辞退&lt;/p&gt;&lt;p&gt;D、处分&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("161","1","（）是我们党执政兴国的第一要务。","A","&lt;p&gt;A、发展&lt;/p&gt;&lt;p&gt;B、开放&lt;/p&gt;&lt;p&gt;C、改革&lt;/p&gt;&lt;p&gt;D、稳定&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("120","1","过渡时期总路线的主体是( )。","C","&lt;p&gt;A、实现现代化&lt;/p&gt;&lt;p&gt;B、实现工业化&lt;/p&gt;&lt;p&gt;C、实现国有化&lt;/p&gt;&lt;p&gt;D、实现私有化&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("163","1","我国的社会主义建设，必须从我国的国情出发，走（）道路。","B","&lt;p&gt;A、社会主义&lt;/p&gt;&lt;p&gt;B、中国特色社会主义&lt;/p&gt;&lt;p&gt;C、改革开放&lt;/p&gt;&lt;p&gt;D、强国富民&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("131","1","中国共产党解决民族问题的基本政策是（）。","B","&lt;p&gt;A、民族自治&lt;/p&gt;&lt;p&gt;B、民族区域自治&lt;/p&gt;&lt;p&gt;C、民族平等&lt;/p&gt;&lt;p&gt;D、民族融合&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("75","1","中国的改革开放在20世纪90年代进入到一个新的历史时期。其主要依据是（）。","C","&lt;p&gt;A、中国加入亚太经济合作组织&lt;/p&gt;&lt;p&gt;B、农村经济体制改革获得重大突破&lt;/p&gt;&lt;p&gt;C、确定了经济体制改革的目标&lt;/p&gt;&lt;p&gt;D、建设中国特色社会主义理论开始形成&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("197","1","党章规定，党员必须履行的义务有（）。","B","&lt;p&gt;A、6项&lt;/p&gt;&lt;p&gt;B、8项&lt;/p&gt;&lt;p&gt;C、10项&lt;/p&gt;&lt;p&gt;D、12项&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("423","2","十八大报告指出，扎实推进社会主义文化强国，就要（）。","ABCD","&lt;p&gt;A、加强社会主义核心价值体系建设&lt;/p&gt;&lt;p&gt;B、全面提高公民道德素质&lt;/p&gt;&lt;p&gt;C、丰富人民精神文化生活&lt;/p&gt;&lt;p&gt;D、增强文化整体实力和竞争力&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("306","2","坚持统筹发展，就是要统筹（）","ABCD","&lt;p&gt;A、城乡、区域协调发展&lt;/p&gt;&lt;p&gt;B、对内开放和对外开放协调发展&lt;/p&gt;&lt;p&gt;C、经济社会协调发展&lt;/p&gt;&lt;p&gt;D、人与自然和谐协调发展&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("442","2","为了进一步完善社会主义市场经济体制，政府工作报告指出必须：（）。","ABC","&lt;p&gt;A、毫不动摇低巩固和发展公有制经济&lt;/p&gt;&lt;p&gt;B、毫不动摇低鼓励、支持和引导非公有制经济发展&lt;/p&gt;&lt;p&gt;C、形成各种所有制经济依法平等使用生产要素、公平参与市场竞争、同等受到法律保护的体制环境&lt;/p&gt;&lt;p&gt;D、加强社会主义民主法治建设&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("403","2","&lt;p&gt;《廉政准则》规定，党员领导干部不准干预和插手农村集体资金、资产和资源的（）等事项。（） -----&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;","ABCD","&lt;p&gt;A、使用&lt;/p&gt;
+
+&lt;p&gt;B、分配&lt;/p&gt;
+
+&lt;p&gt;C、承包&lt;/p&gt;
+
+&lt;p&gt;D、租赁&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("386","2","中国共产党要领导全国各族人民实现社会主义现代化的宏伟目标，必须紧密围绕（），加强党的执政能力建设、（）建设。（）","AD","&lt;p&gt;A、党的基本路线&lt;/p&gt;&lt;p&gt;B、党的奋斗目标&lt;/p&gt;&lt;p&gt;C、作风建设&lt;/p&gt;&lt;p&gt;D、先进性和纯洁性&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("316","2","党必须适应形势的发展和情况的变化，（），（），改进领导方式。（）","AC","&lt;p&gt;A、完善领导体制&lt;/p&gt;&lt;p&gt;B、科学民主决策&lt;/p&gt;&lt;p&gt;C、增强执政能力&lt;/p&gt;&lt;p&gt;D、提高执政水平&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("301","2","深入贯彻落实科学发展观对加强党的执政能力建设提出了新要求，要求我们在运用科学发展观指导经济社会发展的实践中，不断提高（）","ABCD","&lt;p&gt;A、驾驭社会主义市场经济的能力&lt;/p&gt;&lt;p&gt;B、发展社会主义民主政治的能力&lt;/p&gt;&lt;p&gt;C、建设社会主义先进文化的能力&lt;/p&gt;&lt;p&gt;D、构建社会主义和谐社会的能力&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("307","2","从马克思主义历史观来深刻认识和把握科学发展观，下列说法正确的有（）","ABD","&lt;p&gt;A、人类社会的存在和发展一刻也离不开自然&lt;/p&gt;&lt;p&gt;B、人类社会的发展要受到政治、文化、意识等因素和其他社会因素的制约&lt;/p&gt;&lt;p&gt;C、生产关系是决定社会发展的根本力量&lt;/p&gt;&lt;p&gt;D、人类社会发展的内在动力就是社会矛盾的不断解决&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("481","2","社会主义民族关系的基本要求是促进各民族（）。","ABC","&lt;p&gt;A、和睦相处&lt;/p&gt;&lt;p&gt;B、和衷共济&lt;/p&gt;&lt;p&gt;C、和谐发展&lt;/p&gt;&lt;p&gt;D、和平共处&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("311","2","始终做到“三个代表”，是我们党的（）。（）","BCD","&lt;p&gt;A、第一要务&lt;/p&gt;&lt;p&gt;B、立党之本&lt;/p&gt;&lt;p&gt;C、执政之基&lt;/p&gt;&lt;p&gt;D、力量之源&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("241","2","1950年6月,党的七届三中全会指出,我国财政经济状况的根本好转,要用三年左右的时间,创造三个条件。这三个条件是（）。","ABD","&lt;p&gt;A、土地改革的完成&lt;/p&gt;&lt;p&gt;B、现有工商业的合理调整&lt;/p&gt;&lt;p&gt;C、打击不法投机资本&lt;/p&gt;&lt;p&gt;D、国家机构所需经费的大量节减&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("396","2","禁止党员领导干部脱离实际，弄虚作假，损害群众利益和党群干群关系，不准有以下哪些行为：（）。","ABC","&lt;p&gt;A、搞劳民伤财的“形象工程”和沽名钓誉的“政绩工程”；&lt;/p&gt;&lt;p&gt;B、虚报工作业绩；&lt;/p&gt;&lt;p&gt;C、在社会保障、政策扶持、救灾救济款物分配等事项中优亲厚友、显失公平；&lt;/p&gt;&lt;p&gt;D、获取荣誉、职称、学历学位等利益。&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("419","2","新乡市在新型农村社区规划建设中提出，新型农村社区规划建设应满足哪些技术标准。（　　）","ABC　　","&lt;p&gt;A、《城市居住区规划设计规范》&lt;/p&gt;&lt;p&gt;B、《河南省新型农村社区建设技术导则》&lt;/p&gt;&lt;p&gt;C、《新乡市新型农村社区规划建设技术导则》&lt;/p&gt;&lt;p&gt;D、《中原经济区规划》&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("296","2","“三个代表”重要思想之所以成为加强和改进党的建设的根本指导思想，是因为（）","ACD","&lt;p&gt;A、它为如何加强和改进党的领导指明了方向&lt;/p&gt;&lt;p&gt;B、它为全面建设小康社会指明了方向&lt;/p&gt;&lt;p&gt;C、它为党的建设提出了新的更高要求&lt;/p&gt;&lt;p&gt;D、它指出了加强和改进党的建设的衡量标准&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("409","2","《新乡市社会养老服务体系建设规划(2011-2015年)》是根据以下那些条例制定的。（）","ABCD","&lt;p&gt;A、国家《社会养老服务体系建设规划(2011—2015年)》&lt;/p&gt;&lt;p&gt;B、《河南省社会养老服务体系建设规划(2011—2015年)》&lt;/p&gt;&lt;p&gt;C、《河南省老龄事业发展“十二五”规划》&lt;/p&gt;&lt;p&gt;D、《河南省人民政府关于加快推进社会养老服务体系建设的意见》&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("734","3","2020年国内产总值和城乡居民人均收入要比2010年都要翻一番。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("640","3","总支部委员会和支部委员会由党员大会选举产生或代表大会选举产生。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("585","3","2010年我国国内生产总值跃居世界第二位，我国国际地位和影响力显著提高。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("549","3","科学发展观，是立足社会主义初级阶段基本国情，总结我国发展实践，借鉴国外发展经验，适应新的发展要求提出的。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("581","3","当代中国最基本的国情是我国正处于并将长期处于社会主义初级阶段。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("740","3","党惩治与预防腐败方针是标本兼治、综合治理、惩防并举、注重预防。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("738","3","长期以来我党坚持发扬理论联系实际、密切联系群众和批评与自我批评相结合三大优良作风。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("727","3","弘扬中华传统美德是社会主义道德建设的基本任务。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("513","3","建国初期，在资本主义工商业者中开展了反行贿、反偷税漏税、反盗骗国家财产、反偷工减料、反盗窃国家经济情报的斗争的“五反”运动。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("723","3","经济实力和竞争力是国家富强、民族振兴的重要标志。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("645","3","各级党和国家机关中党的基层组织，不领导本单位的业务工作。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("704","3","党员在留党察看期间，有参加党的有关会议的权利。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("536","3","新中国成立初期，中国处于新民主主义社会，其经济成分主要是社会主义国营经济与合作社经济。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("652","3","党的各级纪律检查委员会每届任期和同级党的委员会不同。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("519","3","邓小平理论的主要内容是社会主义市场经济理论。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("689","3","党组织对党员作出处分决定，处分决定所依据的事实材料和处分决定必须同本人见面。","A","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("679","3","工会，农会，作协，政协，不可以成立党组。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("736","3","建设美丽中国实现中华民族永续发展是社会建设的必然要求。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("650","3","撤销党内职务是党内的最高处分。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+select questionid from tmp_question
+insert into tmp_question(questionid,questiontype,question,questionanswer,questionselect) values("661","3","党的基层委员会只能设立纪律检查委员会。","B","&lt;p&gt;A、对B、错&lt;/p&gt;")
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select * from tmp_question
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select id from memuser
+insert into memuser(id,user,pwd,email,flag) values("4","","","","0")
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
+use kaoshi
+use kaoshi
+select questionid from x2_questions
+select questionid,questiontype,question,questionanswer,questionselect from x2_questions limit 0,30
+select questionid from x2_questions
+use kaoshi
+select id,user,email from adminuser
+select id from adminuser
+use kaoshi
+select * from tmp_question
+use kaoshi
+select * from tmp_question
